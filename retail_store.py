@@ -1,8 +1,8 @@
 
-# Discounts(2% for each year, max 10%) for every employee
-# If employee is a manager, +10% to discount
-# If employee is a hourly employee, +2%
-# Max discount == $200
+# Discounts(2% for each year, max 10) for every employee
+# If employee is a manager, +10 to discount
+# If employee is a hourly employee, +2
+# Max discount == $20
 # employee discount number
 
 employee_list = []
